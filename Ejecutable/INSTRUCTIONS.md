@@ -1,3 +1,5 @@
-#Instrucciones para ejecutar
+Instrucciones para ejecutar:
 
-##hola
+1. Extraer el archivo
+2. Ejecutar "pip install streamlit folium streamlit_folium" en la terminal
+3. Correr el programa con "streamlit run main.py"
